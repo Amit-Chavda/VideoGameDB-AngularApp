@@ -1,7 +1,9 @@
+@import "../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css";
+
 body{
     padding-top: 60px;
     height: 100%;
-    background-color: black;
+    /* background-color: black; */
 }
 body *{
     margin: 0;
